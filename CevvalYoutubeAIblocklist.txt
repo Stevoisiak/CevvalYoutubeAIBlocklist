@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cevval YouTube AI Music Blocklist
 ! Description: Block AI-generated music spam from appearing in youtube search results
-! Last updated: 2026-05-12
+! Last updated: 2026-06-10
 ! Expires: 1 week (update frequency)
 ! Homepage: https://github.com/cevvalkoala/CevvalYoutubeAIBlocklist/tree/main
 ! Maintained by CevvalKoala
@@ -1716,3 +1716,23 @@ youtube.com##ytd-video-renderer:has(a[href*="UC7NJJji--hLA2Pg2c7bCDJg"]), ytd-gr
 youtube.com##ytd-video-renderer:has(a[href*="AIMusicFlow9"]), ytd-grid-video-renderer:has(a[href*="AIMusicFlow9"])
 youtube.com##ytd-video-renderer:has(a[href*="UC5gdPmyDgagfW4v5RT1dIdA"]), ytd-grid-video-renderer:has(a[href*="UC5gdPmyDgagfW4v5RT1dIdA"])
 youtube.com##ytd-video-renderer:has(a[href*="djrflame"]), ytd-grid-video-renderer:has(a[href*="djrflame"])
+youtube.com##ytd-video-renderer:has(a[href*="UCB0u--JvUoi__RWN1iuXb9g"]), ytd-grid-video-renderer:has(a[href*="UCB0u--JvUoi__RWN1iuXb9g"])
+youtube.com##ytd-video-renderer:has(a[href*="MGDigitalMuzik"]), ytd-grid-video-renderer:has(a[href*="MGDigitalMuzik"])
+youtube.com##ytd-video-renderer:has(a[href*="UCa-GTqnInO6HWxZz0ewjm1Q"]), ytd-grid-video-renderer:has(a[href*="UCa-GTqnInO6HWxZz0ewjm1Q"])
+youtube.com##ytd-video-renderer:has(a[href*="Darkyap%C4%B1m"]), ytd-grid-video-renderer:has(a[href*="Darkyap%C4%B1m"])
+youtube.com##ytd-video-renderer:has(a[href*="UCTlV7hIGE7ycGFxmHk0WKXA"]), ytd-grid-video-renderer:has(a[href*="UCTlV7hIGE7ycGFxmHk0WKXA"])
+youtube.com##ytd-video-renderer:has(a[href*="AnatolianSoundStudio"]), ytd-grid-video-renderer:has(a[href*="AnatolianSoundStudio"])
+youtube.com##ytd-video-renderer:has(a[href*="UC4nIXet7SJ6okFP4wq-P03g"]), ytd-grid-video-renderer:has(a[href*="UC4nIXet7SJ6okFP4wq-P03g"])
+youtube.com##ytd-video-renderer:has(a[href*="Voyageus"]), ytd-grid-video-renderer:has(a[href*="Voyageus"])
+youtube.com##ytd-video-renderer:has(a[href*="UCt_8z7XeoT1avfWgIv8CEXg"]), ytd-grid-video-renderer:has(a[href*="UCt_8z7XeoT1avfWgIv8CEXg"])
+youtube.com##ytd-video-renderer:has(a[href*="lanser9407"]), ytd-grid-video-renderer:has(a[href*="lanser9407"])
+youtube.com##ytd-video-renderer:has(a[href*="UC0UgaPGz5Fg2sPquXNdDv9A"]), ytd-grid-video-renderer:has(a[href*="UC0UgaPGz5Fg2sPquXNdDv9A"])
+youtube.com##ytd-video-renderer:has(a[href*="steup478"]), ytd-grid-video-renderer:has(a[href*="steup478"])
+youtube.com##ytd-video-renderer:has(a[href*="UCu_943ECTrRDa7F0lYNteSQ"]), ytd-grid-video-renderer:has(a[href*="UCu_943ECTrRDa7F0lYNteSQ"])
+youtube.com##ytd-video-renderer:has(a[href*="DarkestSorceress"]), ytd-grid-video-renderer:has(a[href*="DarkestSorceress"])
+youtube.com##ytd-video-renderer:has(a[href*="UCOZER8LGUWlCxnWFzyt9f2Q"]), ytd-grid-video-renderer:has(a[href*="UCOZER8LGUWlCxnWFzyt9f2Q"])
+youtube.com##ytd-video-renderer:has(a[href*="ScarletFandomSongs"]), ytd-grid-video-renderer:has(a[href*="ScarletFandomSongs"])
+youtube.com##ytd-video-renderer:has(a[href*="UCWN2y5JTbwgVp4HrkaeC1vw"]), ytd-grid-video-renderer:has(a[href*="UCWN2y5JTbwgVp4HrkaeC1vw"])
+youtube.com##ytd-video-renderer:has(a[href*="lycador"]), ytd-grid-video-renderer:has(a[href*="lycador"])
+youtube.com##ytd-video-renderer:has(a[href*="UC_dj24_2TOVDkPiH23-yKvQ"]), ytd-grid-video-renderer:has(a[href*="UC_dj24_2TOVDkPiH23-yKvQ"])
+youtube.com##ytd-video-renderer:has(a[href*="forgemusic-987hq"]), ytd-grid-video-renderer:has(a[href*="forgemusic-987hq"])
