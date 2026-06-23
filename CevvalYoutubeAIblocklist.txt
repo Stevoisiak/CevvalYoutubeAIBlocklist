@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Cevval YouTube AI Music Blocklist
 ! Description: Block AI-generated music spam from appearing in youtube search results
-! Last updated: 2026-06-10
+! Last updated: 2026-06-23
 ! Expires: 1 week (update frequency)
 ! Homepage: https://github.com/cevvalkoala/CevvalYoutubeAIBlocklist/tree/main
 ! Maintained by CevvalKoala
@@ -1736,3 +1736,29 @@ youtube.com##ytd-video-renderer:has(a[href*="UCWN2y5JTbwgVp4HrkaeC1vw"]), ytd-gr
 youtube.com##ytd-video-renderer:has(a[href*="lycador"]), ytd-grid-video-renderer:has(a[href*="lycador"])
 youtube.com##ytd-video-renderer:has(a[href*="UC_dj24_2TOVDkPiH23-yKvQ"]), ytd-grid-video-renderer:has(a[href*="UC_dj24_2TOVDkPiH23-yKvQ"])
 youtube.com##ytd-video-renderer:has(a[href*="forgemusic-987hq"]), ytd-grid-video-renderer:has(a[href*="forgemusic-987hq"])
+youtube.com##ytd-video-renderer:has(a[href*="UCQVPahagWGAZoLKOBya8v8g"]), ytd-grid-video-renderer:has(a[href*="UCQVPahagWGAZoLKOBya8v8g"])
+youtube.com##ytd-video-renderer:has(a[href*="bitapm%C3%BCzik"]), ytd-grid-video-renderer:has(a[href*="bitapm%C3%BCzik"])
+youtube.com##ytd-video-renderer:has(a[href*="UCM3jNlzwugR974EBepNcE4w"]), ytd-grid-video-renderer:has(a[href*="UCM3jNlzwugR974EBepNcE4w"])
+youtube.com##ytd-video-renderer:has(a[href*="muzikh4ne"]), ytd-grid-video-renderer:has(a[href*="muzikh4ne"])
+youtube.com##ytd-video-renderer:has(a[href*="UCIBymtQxKuyNGr-f8MDYGig"]), ytd-grid-video-renderer:has(a[href*="UCIBymtQxKuyNGr-f8MDYGig"])
+youtube.com##ytd-video-renderer:has(a[href*="FarmatHome-o1o"]), ytd-grid-video-renderer:has(a[href*="FarmatHome-o1o"])
+youtube.com##ytd-video-renderer:has(a[href*="UCoCcoc2q6wCc7vCSbc5Es7g"]), ytd-grid-video-renderer:has(a[href*="UCoCcoc2q6wCc7vCSbc5Es7g"])
+youtube.com##ytd-video-renderer:has(a[href*="telkesmuzik"]), ytd-grid-video-renderer:has(a[href*="telkesmuzik"])
+youtube.com##ytd-video-renderer:has(a[href*="UCzUwlO1Qx2kdauVAkqBkK6A"]), ytd-grid-video-renderer:has(a[href*="UCzUwlO1Qx2kdauVAkqBkK6A"])
+youtube.com##ytd-video-renderer:has(a[href*="anatolianrust"]), ytd-grid-video-renderer:has(a[href*="anatolianrust"])
+youtube.com##ytd-video-renderer:has(a[href*="UCeoydStYVnykataAXFyBPYw"]), ytd-grid-video-renderer:has(a[href*="UCeoydStYVnykataAXFyBPYw"])
+youtube.com##ytd-video-renderer:has(a[href*="R%C3%BCya_Sess"]), ytd-grid-video-renderer:has(a[href*="R%C3%BCya_Sess"])
+youtube.com##ytd-video-renderer:has(a[href*="UCJfqdCzT49foDEPc3PyKvbw"]), ytd-grid-video-renderer:has(a[href*="UCJfqdCzT49foDEPc3PyKvbw"])
+youtube.com##ytd-video-renderer:has(a[href*=""]), ytd-grid-video-renderer:has(a[href*=""])
+youtube.com##ytd-video-renderer:has(a[href*="UChCNF6cNVnHBJZGK8GXwTPg"]), ytd-grid-video-renderer:has(a[href*="UChCNF6cNVnHBJZGK8GXwTPg"])
+youtube.com##ytd-video-renderer:has(a[href*="TheAkyr"]), ytd-grid-video-renderer:has(a[href*="TheAkyr"])
+youtube.com##ytd-video-renderer:has(a[href*="UCPPe6lrogjOKcasiAUYdj2g"]), ytd-grid-video-renderer:has(a[href*="UCPPe6lrogjOKcasiAUYdj2g"])
+youtube.com##ytd-video-renderer:has(a[href*="SamPoint"]), ytd-grid-video-renderer:has(a[href*="SamPoint"])
+youtube.com##ytd-video-renderer:has(a[href*="UC-6NcD-qhi8hm-C5fFFXl8w"]), ytd-grid-video-renderer:has(a[href*="UC-6NcD-qhi8hm-C5fFFXl8w"])
+youtube.com##ytd-video-renderer:has(a[href*="alexutopia"]), ytd-grid-video-renderer:has(a[href*="alexutopia"])
+youtube.com##ytd-video-renderer:has(a[href*="UCacX8-cknIQHlBXhkq2r_IA"]), ytd-grid-video-renderer:has(a[href*="UCacX8-cknIQHlBXhkq2r_IA"])
+youtube.com##ytd-video-renderer:has(a[href*="Infamous007-1"]), ytd-grid-video-renderer:has(a[href*="Infamous007-1"])
+youtube.com##ytd-video-renderer:has(a[href*="UCv6s-2_bFAtlHz71E9NT9DA"]), ytd-grid-video-renderer:has(a[href*="UCv6s-2_bFAtlHz71E9NT9DA"])
+youtube.com##ytd-video-renderer:has(a[href*="kallistusmusic"]), ytd-grid-video-renderer:has(a[href*="kallistusmusic"])
+youtube.com##ytd-video-renderer:has(a[href*="UCHuYORZFTV8BxmDkGww3CSw"]), ytd-grid-video-renderer:has(a[href*="UCHuYORZFTV8BxmDkGww3CSw"])
+youtube.com##ytd-video-renderer:has(a[href*="suzevidz"]), ytd-grid-video-renderer:has(a[href*="suzevidz"])
